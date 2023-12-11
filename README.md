@@ -16,4 +16,7 @@ In this repository you can find all the coding we used in our project
 
  ## 3. Model
 
- This folder contained two Google Colabs, one with the BERT model and other one with the Sentence BERT. Since BERT perfomed better than our Majority Class, we trained that model to finally have the predictions.
+ This folder contained two Google Colabs, one with the BERT model and other one with the Sentence BERT. Since BERT perfomed better than our Majority Class, we trained that model to finally have the predictions. In this case, we used 600 datapoints as train, 200 as dev and 200 as test. This can be seen in the results of both models.
+
+ ## 4. Results
+ It can be found the result of our model and the trend accross time in the `test_results.ipynb` jupyter notebook.
